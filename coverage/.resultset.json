@@ -6,57 +6,19 @@
         1,
         null,
         1,
-        2,
-        2,
-        null,
-        null,
         1,
-        2,
+        1,
         null,
         null,
         1,
         1,
-        null
-      ],
-      "/Users/zamith/Documents/Presentations/testing-magic/customer.rb": [
-        1,
-        1,
-        null,
-        1,
-        2,
         null,
         null,
         1,
-        2,
-        null,
-        null
-      ],
-      "/Users/zamith/Documents/Presentations/testing-magic/new_release_movie.rb": [
         1,
-        null,
-        1,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/Users/zamith/Documents/Presentations/testing-magic/movie.rb": [
-        1,
-        1,
-        2,
-        null,
-        null
-      ],
-      "/Users/zamith/Documents/Presentations/testing-magic/regular_movie.rb": [
-        1,
-        null,
-        1,
-        1,
-        1,
-        null,
         null
       ]
     },
-    "timestamp": 1389115092
+    "timestamp": 1389117851
   }
 }
