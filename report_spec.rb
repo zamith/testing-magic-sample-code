@@ -13,7 +13,7 @@ describe Report do
 
       report.generate
 
-      expect(report.total_owed).to eq 10
+      expect(report.total_owed).to eq 20
     end
   end
 
@@ -25,7 +25,7 @@ describe Report do
 
       report.generate
 
-      expect(report.total_owed).to eq 5
+      expect(report.total_owed).to eq 20
     end
   end
 end
