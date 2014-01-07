@@ -7,6 +7,9 @@ class Report
   end
 
   def generate
-    @total_owed = 10
+    @total_owed = customer.determine_amount_owed
   end
+
+  private
+  attr_reader :customer
 end
