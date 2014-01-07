@@ -1,7 +1,8 @@
 require_relative 'spec_helper'
 require_relative 'report'
 require_relative 'customer'
-require_relative 'movie'
+require_relative 'new_release_movie'
+require_relative 'regular_movie'
 
 describe Report do
   context "renting new releases" do

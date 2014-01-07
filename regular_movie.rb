@@ -2,6 +2,6 @@ require_relative 'movie'
 
 class RegularMovie < Movie
   def cost
-    5
+    20
   end
 end

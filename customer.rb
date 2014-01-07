@@ -6,7 +6,6 @@ class Customer
   end
 
   def determine_amount_owed
-    #movie.cost
-    20
+    movie.cost
   end
 end
