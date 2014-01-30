@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/zamith/Documents/Presentations/testing-magic/report.rb": [
+      "/Users/zamith/Dropbox/Presentations/testing-magic-revamp/code/report.rb": [
         1,
         1,
         null,
@@ -19,6 +19,6 @@
         null
       ]
     },
-    "timestamp": 1389117851
+    "timestamp": 1391097853
   }
 }

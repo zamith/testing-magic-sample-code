@@ -1,5 +1,5 @@
-require_relative "new_release_movie"
-require_relative "regular_movie"
+require_relative "../new_release_movie"
+require_relative "../regular_movie"
 
 describe NewReleaseMovie do
   it "knows how much it costs to rent" do

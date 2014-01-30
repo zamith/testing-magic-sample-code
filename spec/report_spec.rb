@@ -1,6 +1,6 @@
 require_relative 'spec_helper'
-require_relative 'report'
-require_relative 'customer'
+require_relative '../report'
+require_relative '../customer'
 
 describe Report do
   it "gets the total amount owned by a customer" do

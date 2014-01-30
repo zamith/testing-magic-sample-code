@@ -1,5 +1,5 @@
-require_relative 'customer'
-require_relative 'new_release_movie'
+require_relative '../customer'
+require_relative '../new_release_movie'
 
 describe Customer do
   it "determines the amount owed" do
